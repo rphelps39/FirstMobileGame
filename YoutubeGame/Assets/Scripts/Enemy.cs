@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    //test for github
     // Start is called before the first frame update
     void Start()
     {
